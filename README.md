@@ -1,5 +1,4 @@
 # Gargi
-About project
 Student Grade Calculator is a Python-based application designed  to understand basic programming concepts such as input handling, loops, functions, condition checking, and file handling.
 The program allows the user to:
 Enter a student's name, roll number, and number of subjects.
